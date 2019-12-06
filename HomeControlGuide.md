@@ -1,7 +1,7 @@
 Ce document vous permettra de configurer plus facilement votre application mobile **[HomeControl](https://play.google.com/store/apps/details?id=fr.touin.thierry.homecontrol&hl=fr)**.
 
 ## Configuration backoffice
-Vous devez aller sur les pages de configuration en cliquant sur le bouton ![roueDents](/mnt/disque1/Perso/git/documents/images/roueDents.png)
+Vous devez aller sur les pages de configuration en cliquant sur le bouton ![roueDents](./images/roueDents.png)
 
 Vous arrivez sur une page avec 4 onglets
 
