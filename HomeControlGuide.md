@@ -1,9 +1,9 @@
-Ce document vous permettra de configurer plus facilement votre application mobile **[HomeControl](https://play.google.com/store/apps/details?id=fr.touin.thierry.homecontrol&hl=fr)**.
+ Ce document vous permettra de configurer plus facilement votre application mobile **[HomeControl](https://play.google.com/store/apps/details?id=fr.touin.thierry.homecontrol&hl=fr)** (Google Playstore).
 
 ## Configuration backoffice
-Vous devez aller sur les pages de configuration en cliquant sur le bouton ![roueDents](./images/roueDents.png)
+Vous devez aller sur les pages de configuration en cliquant sur le bouton <img src="./images/roueDents.png" style="zoom:50%;" />
 
-Vous arrivez sur une page avec 4 onglets
+Vous arrivez sur une page avec 4 onglets:
 
 1. L'onglet **Jeedom** vous permettra de configurer l'accès à votre box Jeedom
 
@@ -19,14 +19,60 @@ Cette page est partagée en 4 zones. En réalité, elle vous permet de renseigne
 
 
 2. L'onglet **Pages** vous permettra de nommer les onglets principaux. 
-Attention un redémarrage de l'application est necessaire pour prise en compte.
+*Attention* : un redémarrage de l'application est nécessaire pour prise en compte.
 
-3. L'onglet **IMP/EXP** vous permettra d'importer et d'exporter la configuration. Par exemple si vous changez de téléphone. 
-La sauvegarde **HomeControlConfig.json** est localisée dans le répertoire **[sdcard]/HomeControl** de votre téléphone. Elle est au format **json**. 
-
-4. L'onglet **Debug** vous permet d'activer un mode facilitant l'analyse si vous détectez un problème dans l'application. Cet onglet est réservé au expert.
+​     Dans cet onglet, vous pourrez aussi changer le thème par défaut. Je suis preneur de nouvelles couleur :-)
 
 
+2. L'onglet **IMP/EXP** vous permettra d'importer et d'exporter la configuration. Par exemple si vous changez de téléphone. 
+    La sauvegarde **HomeControlConfig.json** est localisée dans le répertoire **[sdcard]/HomeControl** de votre téléphone. Elle est au format **json**. 
+3. L'onglet **Debug** vous permet d'activer un mode facilitant l'analyse si vous détectez un problème dans l'application. Cet onglet est réservé au expert.
 
-## Configuration des widjets
+
+
+## Configuration des widgets
+
+Le bouton <img src="./images/plus.png" style="zoom:30%;" /> , vous permet d'ajouter des widgets sur les 4 pages principales.
+
+Les type de widgets sont les suivants:
+
+1. Une simple information
+
+<img src="./images/widget_infosimple.png" style="zoom:30%;" />
+
+2. Un bouton avec 2 actions
+
+<img src="./images/widget_2actions.png" style="zoom:30%;" />
+
+2. Un bouton avec 3 actions
+
+<img src="./images/widget_3actions.png" style="zoom:30%;" />
+
+
+3. Un bouton poussoir
+
+<img src="./images/widget_poussoir.png" style="zoom:30%;" />
+
+
+4. Un variateur
+
+<img src="./images/widget_variateur.png" style="zoom:30%;" />
+
+
+5. Un libellé (titre simple)
+
+<img src="./images/widget_label.png" style="zoom:30%;" />
+
+
+6. Un bouton changer la couleur
+
+<img src="./images/widget_couleur.png" style="zoom:30%;" />
+
+
+7. Un bouton + url libre
+
+<img src="./images/widget_url_libre.png" style="zoom:30%;" />
+
+
+> Pour modifier un widget, il faut faire un appui long sur le widget.
 
