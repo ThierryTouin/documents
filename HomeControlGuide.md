@@ -1,7 +1,7 @@
  Ce document vous permettra de configurer plus facilement votre application mobile **[HomeControl](https://play.google.com/store/apps/details?id=fr.touin.thierry.homecontrol&hl=fr)** (Google Playstore).
 
 ## Configuration backoffice
-Vous devez aller sur les pages de configuration en cliquant sur le bouton <img src="./images/roueDents.png" style="zoom:50%;" />
+Vous devez aller sur les pages de configuration en cliquant sur le bouton <img src="./images/roueDents.png" style="zoom:20%;" />
 
 Vous arrivez sur une page avec 4 onglets:
 
@@ -32,13 +32,13 @@ Cette page est partagée en 4 zones. En réalité, elle vous permet de renseigne
 
 ## Configuration des widgets
 
-Le bouton <img src="./images/plus.png" style="zoom:30%;" /> , vous permet d'ajouter des widgets sur les 4 pages principales.
+Le bouton <img src="./images/plus.png" style="zoom:20%;" /> , vous permet d'ajouter des widgets sur les 4 pages principales.
 
 Les type de widgets sont les suivants:
 
 1. Une simple information
 
-<img src="./images/widget_infosimple.png" style="zoom:30%;" />
+<img src="./images/widget_infosimple.png" style="zoom:20%;" />
 
 2. Un bouton avec 2 actions
 
@@ -46,32 +46,32 @@ Les type de widgets sont les suivants:
 
 2. Un bouton avec 3 actions
 
-<img src="./images/widget_3actions.png" style="zoom:30%;" />
+<img src="./images/widget_3actions.png" style="zoom:20%;" />
 
 
 3. Un bouton poussoir
 
-<img src="./images/widget_poussoir.png" style="zoom:30%;" />
+<img src="./images/widget_poussoir.png" style="zoom:20%;" />
 
 
 4. Un variateur
 
-<img src="./images/widget_variateur.png" style="zoom:30%;" />
+<img src="./images/widget_variateur.png" style="zoom:20%;" />
 
 
 5. Un libellé (titre simple)
 
-<img src="./images/widget_label.png" style="zoom:30%;" />
+<img src="./images/widget_label.png" style="zoom:20%;" />
 
 
 6. Un bouton changer la couleur
 
-<img src="./images/widget_couleur.png" style="zoom:30%;" />
+<img src="./images/widget_couleur.png" style="zoom:20%;" />
 
 
 7. Un bouton + url libre
 
-<img src="./images/widget_url_libre.png" style="zoom:30%;" />
+<img src="./images/widget_url_libre.png" style="zoom:20%;" />
 
 
 > Pour modifier un widget, il faut faire un appui long sur le widget.
