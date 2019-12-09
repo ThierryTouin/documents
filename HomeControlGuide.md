@@ -38,40 +38,40 @@ Les type de widgets sont les suivants:
 
 1. Une simple information
 
-<img src="./images/widget_infosimple.png" style="border: dashed red;zoom:10%;" />
+Ce widget vous permet d'afficher la valeur d'un capteur comme une température.
+
+Vous pourrez spécifier un identifiant d'action Jeedom, un libellé et l'unité si besoin
+
+<img src="./images/widget_infosimple.png" style="border: dashed red;zoom:50%;" />
 
 2. Un bouton avec 2 actions
 
-<img src="./images/widget_2actions.png" style="border: dashed red;zoom:10%;" />
+<img src="./images/widget_2actions.png" style="border: dashed red;zoom:50%;" />
 
-2. Un bouton avec 3 actions
+3. Un bouton avec 3 actions
 
-<img src="./images/widget_3actions.png" style="border: dashed red;zoom:10%;" />
+<img src="./images/widget_3actions.png" style="border: dashed red;zoom:48%;" />
 
+4. Un bouton poussoir
 
-3. Un bouton poussoir
+<img src="./images/widget_poussoir.png" style="border: dashed red;zoom:52%;" />
 
-<img src="./images/widget_poussoir.png" style="border: dashed red;zoom:10%;" />
+5. Un variateur
 
+<img src="./images/widget_variateur.png" style="border: dashed red;zoom:52%;" />
 
-4. Un variateur
+6. Un libellé (titre simple)
 
-<img src="./images/widget_variateur.png" style="border: dashed red;zoom:10%;" />
+<img src="./images/widget_label.png" style="border: dashed red;zoom:49%;" />
 
+7. Un bouton changer la couleur
 
-5. Un libellé (titre simple)
+<img src="./images/widget_couleur.png" style="border: dashed red;zoom:53%;" />
 
-<img src="./images/widget_label.png" style="border: dashed red;zoom:10%;" />
+8. Un bouton + url libre
 
+<img src="./images/widget_url_libre.png" style="border: dashed red;zoom:54%;" />
 
-6. Un bouton changer la couleur
-
-<img src="./images/widget_couleur.png" style="border: dashed red;zoom:10%;" />
-
-
-7. Un bouton + url libre
-
-<img src="./images/widget_url_libre.png" style="border: dashed red;zoom:10%;" />
 
 
 > Pour modifier un widget, il faut faire un appui long sur le widget.
