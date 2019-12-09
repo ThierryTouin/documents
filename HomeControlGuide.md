@@ -32,46 +32,46 @@ Cette page est partagée en 4 zones. En réalité, elle vous permet de renseigne
 
 ## Configuration des widgets
 
-Le bouton <img src="./images/plus.png" style="zoom:20%;" /> , vous permet d'ajouter des widgets sur les 4 pages principales.
+Le bouton <img src="./images/plus.png" style="zoom:10%;" /> , vous permet d'ajouter des widgets sur les 4 pages principales.
 
 Les type de widgets sont les suivants:
 
 1. Une simple information
 
-<img src="./images/widget_infosimple.png" style="zoom:20%;" />
+<img src="./images/widget_infosimple.png" style="border: dashed red;zoom:10%;" />
 
 2. Un bouton avec 2 actions
 
-<img src="./images/widget_2actions.png" style="zoom:30%;" />
+<img src="./images/widget_2actions.png" style="border: dashed red;zoom:10%;" />
 
 2. Un bouton avec 3 actions
 
-<img src="./images/widget_3actions.png" style="zoom:20%;" />
+<img src="./images/widget_3actions.png" style="border: dashed red;zoom:10%;" />
 
 
 3. Un bouton poussoir
 
-<img src="./images/widget_poussoir.png" style="zoom:20%;" />
+<img src="./images/widget_poussoir.png" style="border: dashed red;zoom:10%;" />
 
 
 4. Un variateur
 
-<img src="./images/widget_variateur.png" style="zoom:20%;" />
+<img src="./images/widget_variateur.png" style="border: dashed red;zoom:10%;" />
 
 
 5. Un libellé (titre simple)
 
-<img src="./images/widget_label.png" style="zoom:20%;" />
+<img src="./images/widget_label.png" style="border: dashed red;zoom:10%;" />
 
 
 6. Un bouton changer la couleur
 
-<img src="./images/widget_couleur.png" style="zoom:20%;" />
+<img src="./images/widget_couleur.png" style="border: dashed red;zoom:10%;" />
 
 
 7. Un bouton + url libre
 
-<img src="./images/widget_url_libre.png" style="zoom:20%;" />
+<img src="./images/widget_url_libre.png" style="border: dashed red;zoom:10%;" />
 
 
 > Pour modifier un widget, il faut faire un appui long sur le widget.
