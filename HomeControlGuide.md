@@ -1,4 +1,6 @@
- Ce document vous permettra de configurer plus facilement votre application mobile **[HomeControl](https://play.google.com/store/apps/details?id=fr.touin.thierry.homecontrol&hl=fr)** (Google Playstore).
+# HomeControl Guide
+
+Ce document vous permettra de configurer plus facilement votre application mobile **[HomeControl](https://play.google.com/store/apps/details?id=fr.touin.thierry.homecontrol&hl=fr)** (Google Playstore).
 
 ## Configuration backoffice
 Vous devez aller sur les pages de configuration en cliquant sur le bouton <img src="./images/roueDents.png" style="zoom:30%;" />
